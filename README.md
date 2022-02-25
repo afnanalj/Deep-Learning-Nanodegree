@@ -1,4 +1,4 @@
-# Nanodegre
+# Nanodegree
 This repository contains material related to Udacity's Deep Learning Nanodegree program , the notebooks lead you through implementing models such as convolutional networks, recurrent networks, GANs ,weight initialization and batch normalization.
 Here are notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by real people (Udacity reviewers).
 Projects:
